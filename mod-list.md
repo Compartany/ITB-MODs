@@ -10,7 +10,6 @@
 - [EN] https://subsetgames.com/forum/viewtopic.php?f=25&t=36616
 - [CN] https://www.bilibili.com/read/cv9495097
 
-## 混乱邪恶 · Chaotic Evil
+## Smart AI
 
-- [EN] TODO
-- [CN] TODO
+TODO
