@@ -10,6 +10,7 @@
 - [EN] https://subsetgames.com/forum/viewtopic.php?f=25&t=36616
 - [CN] https://www.bilibili.com/read/cv9495097
 
-## Smart AI
+## Intelligent AI
 
-TODO
+- [EN] http://subsetgames.com/forum/viewtopic.php?f=25&t=38195
+- [CN] https://www.bilibili.com/read/cv13990559
